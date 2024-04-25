@@ -1,0 +1,49 @@
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.userprefs
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+AnyCPU/
+*.cache
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+*.pdb
+
+# MSTest
+TestResults/
+
+# Resharper
+_ReSharper*/
+*.resharper*
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Others
+*.bak
+*.cache
+*.bak
+*.swp
